@@ -10,8 +10,8 @@ I am a Software Application Developer. I used programming languages Java8, J2EE,
     <p>
       Thank you
     </p>
-
-kvvchetty@outlook.com 
-karthikeyan v
+    <p>kvvchetty@outlook.com</p>
+    <p>http://github.com/kvvchetty</p>
+    <p>karthikeyan v</p>
 </body>
 </html>
