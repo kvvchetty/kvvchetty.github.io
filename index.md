@@ -1,6 +1,6 @@
 ---
 layout: intro
-title: My page
+title: Introduction
 ---
 
 ## Karthikeyan_v_veera &rsquo;s website
