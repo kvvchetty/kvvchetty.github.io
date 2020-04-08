@@ -13,22 +13,3 @@ http://github.com/kvvchetty
 
 karthikeyan v
 
-
-<div class="navbar">
-  <div class="navbar-inner">
-      <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/xxxxcv.pdf">cv</a></li>
-          <li><a href="https://github.com/kvvchetty">github</a></li>
-          <li><a href="https://blogger.com/karthikeyanveera">blog</a></li>
-          <li><a href="https://twitter.com/kvvchetty">@kvvchetty</a></li>
-      </ul>
-  </div>
-</div>
-
-
----
-
-My parts of this web site are licensed under
-[CC BY](https://creativecommons.org/licenses/by/3.0/).
-
-[![CC BY](https://i.creativecommons.org/l/by/3.0/88x31.png)](https://creativecommons.org/licenses/by/3.0/)
