@@ -4,6 +4,14 @@ permalink: /:categories/:year/:month/:day/:title
 
 exclude: [".rvmrc", ".rbenv-version", "ReadMe.md", "Rakefile", "changelog.md", "License.md", "Makefile", "Gemfile", "Gemfile.lock"]
 highlighter: rouge
+theme: minima
+
+minima:
+  skin: sunrise
+
+#header_pages:
+#  - about.md
+#  - portfolio.md
 
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
