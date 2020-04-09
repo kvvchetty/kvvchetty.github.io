@@ -9,6 +9,7 @@ theme: minima
 minima:
   skin: sunrise
 
+avatar: /assets/images/jekyll-logo.png
 #header_pages:
 #  - about.md
 #  - portfolio.md
