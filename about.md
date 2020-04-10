@@ -13,7 +13,13 @@ Prior Experience
 
 DevOps, SOA project team member.
 
-Male, us-vetran ... no, Asian, handicap ... no
-us-citizen ... no, us-gc ... no, us-ead ... no
+
+
+<img src="/assets/images/jekyll-logo.png" alt="Thumbnail of jekyll-logo" style="max-width:30%; border: 1px solid grey;"/> 
+
+<img src="/assets/images/angular7-logo.png" alt="Thumbnail of Angular7-logo" style="max-width:30%; border: 1px solid grey;"/> 
+
+
+
 
 [Go to the Home Page]({{ '/' | absolute_url }})
