@@ -4,10 +4,7 @@ permalink: /:categories/:year/:month/:day/:title
 
 exclude: [".rvmrc", ".rbenv-version", "ReadMe.md", "Rakefile", "changelog.md", "License.md", "Makefile", "Gemfile", "Gemfile.lock"]
 highlighter: rouge
-theme: minima
-
-minima:
-  skin: sunrise
+theme: jekyll-theme-cayman
 
 avatar: /assets/images/jekyll-logo.png
 #header_pages:
@@ -18,6 +15,7 @@ avatar: /assets/images/jekyll-logo.png
 # so be sure to set them if your theme uses them.
 #
 title : Karthikeyan veera
+description: This is a self introduction page
 author :
   name : Karthikeyan veera
   email : kvvchety@outlook.com
