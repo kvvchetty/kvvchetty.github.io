@@ -1,9 +1,8 @@
 ---
 Layout: home
-title: Software Developer Intro
 tagline: What I'm doing now
 permalink: /
-ref: now
+ref: index
 order: 1
 ---
 
@@ -14,5 +13,4 @@ I am a Software Application Developer. I used programming languages Java8, J2EE,
 
 Thank you
 
-karthikeyan v
 
