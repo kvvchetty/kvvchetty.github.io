@@ -1,7 +1,13 @@
 ---
-layout: intro
-title: Software Developer SelFile!
+#
+# Here you can change the text shown in the Home page before the Latest Posts section.
+#
+# Edit cayman-blog's home layout in _layouts instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+#
+layout: home
 ---
+
 
 ## Karthikeyan_v_veera &rsquo;s website
 
@@ -10,3 +16,4 @@ I am a Software Application Developer. I used programming languages Java8, J2EE,
 Thank you
 
 karthikeyan v
+
