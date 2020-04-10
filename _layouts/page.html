@@ -1,8 +1,16 @@
 ---
 layout: default
 ---
-<div class="page-wrap">
-	<div class="container">
-	{{ content }}
+
+{% include page-header.html %}
+
+<section class="main-content">
+	<div class="page-wrap">
+		<div class="container">
+		{{ content }}
+		</div>
 	</div>
-</div>
+
+  {% include page-footer.html %}
+
+</section>
