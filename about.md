@@ -14,11 +14,14 @@ Prior Experience
 DevOps, SOA project team member.
 
 
-
-<img src="/assets/images/jekyll-logo.png" alt="Thumbnail of jekyll-logo" style="max-width:30%; border: 1px solid grey;"/> 
-
-<img src="/assets/images/angular7-logo.png" alt="Thumbnail of Angular7-logo" style="max-width:30%; border: 1px solid grey;"/> 
-
+<div id="links">
+<ul>
+  <li><a href="http://www.angular.io/">Angular</a></li>
+  <li><a href="http://www.java.com/">Java</a></li>
+  <li><a href="https://www.python.org/">Python</a></li>
+  <li><a href="https://spring.io/">Spring Framework</a></li>
+</ul>
+</div>
 
 
 
