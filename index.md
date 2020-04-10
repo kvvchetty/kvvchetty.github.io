@@ -2,9 +2,9 @@
 Layout: home
 title: Software Developer Intro
 tagline: What I'm doing now
-permalink: /cv.html
+permalink: /
 ref: now
-order: 2
+order: 1
 ---
 
 
