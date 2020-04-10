@@ -2,5 +2,6 @@
 layout: contact
 title: Contact
 ref: contact
+order: 0
 ---
-Hello !
+Hello: Please send me a note. I will contact asap!
