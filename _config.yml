@@ -19,3 +19,6 @@ gems:
 
 #Others
 markdown: kramdown
+foot-links:
+  github: kvvchetty
+  twitter: kvvchetty
