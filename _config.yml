@@ -20,7 +20,9 @@ author: karthikeyan veera
 image: /thumbnail-jumbo.png
 twitter:
   username: kvvchetty
-
+disqus:
+   shortname: kvtechforum
+   
 plugins:
   - jekyll-target-blank
 

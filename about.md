@@ -13,6 +13,7 @@ Prior Experience
 
 DevOps, SOA project team member.
 
+Software Products used:
 
 <div id="links">
 <ul>
@@ -35,10 +36,20 @@ DevOps, SOA project team member.
   <li><a href="http://www.jquery/">Jquery</a></li>
   <li><a href="http://www.mockito/">Mockito</a></li>
   <li><a href="http://www.microservice/">MicroService</a></li>
-  <li><a href="http://www.gdk/">GoogleCloud</a></li>
-
+  <li><a href="http://www.gdk/">GoogleCloud GDK, Maven, API</a></li>
 </ul>
 </div>
+
+
+<div>
+
+Hashtags:
+
+" #staffing #hotlist #resources #talentacquisition #email #recruitment #vendors #suppliers #c2c #staf #connections #vendormanagement #candidate #corps #recruiting # #itrecruiters #itstaffing #corp2corp #contractual #corptocorp #jobs #candidatessearching #recruiters #hotlist #c2crequirements #availableconsultants #vendorlist #requirements #vendorempanelment #h1bvisa #jobsearch #gc #subcontractors #benchsales #daily #matching #hiring #jobseeking #lettings #benchmarking #vendor #recruiterjobs #LinkedIn #Resumesearch #Passivesearch #Recruitment #staffing #global #Unitedstates #resumes #bde #jobs #requirement #vms #database #hotlist #itstaffing #vendors #itrecruiter #usrecruitment #c2c #freshers #staffing #contact #resources #talentacquisition #email #recruitment #vendors #suppliers #cpt #c2c #staf #connections #itbenchmarking #vendormanagement #itrecruiters #itstaffing #corp2corp #contractual #corptocorp #jobs #candidatessearching #recruiters #hotlist #availableconsultants
+"
+</div>
+
+
 
 
 
