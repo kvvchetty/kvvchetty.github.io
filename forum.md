@@ -1,8 +1,8 @@
 ---
 layout: forum
 title: Tech Forum
-tagline: What I'm doing now
-permalink: /forum.html
+tagline: Let us share comments
+permalink: /forum
 ref: forum
 order: 0
 ---
