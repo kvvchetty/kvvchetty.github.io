@@ -4,6 +4,7 @@ tagline: What I'm doing now
 permalink: /
 ref: index
 order: 1
+comments: true
 ---
 
 
