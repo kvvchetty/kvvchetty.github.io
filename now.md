@@ -3,7 +3,7 @@ layout: page
 title: Now
 tagline: What I'm doing now
 permalink: /now.html
-ref: now
+ref: page
 order: 0
 ---
 

@@ -1,9 +1,9 @@
 ---
-layout: cv
+layout: page
 title: CV
 tagline: 
 permalink: /karthikeyanveera_cv
-ref: karthikeyanveera_cv
+ref: page
 order: 0
 ---
 CV
