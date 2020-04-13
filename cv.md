@@ -3,7 +3,7 @@ layout: page
 title: CV
 tagline: 
 permalink: /karthikeyanveera_cv
-ref: page
+ref: cv
 order: 0
 ---
 CV
